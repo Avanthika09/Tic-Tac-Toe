@@ -1,0 +1,17 @@
+.subscribe{
+  background-color: red;
+}
+.tweet{
+  background-color: blue;
+}
+.subscribe:hover{
+  background-color: rgb(123, 41, 32);
+  color: white;
+}
+.tweet:active{
+  opacity: 12;
+  box-shadow: 40px;
+}
+.tweet:hover{
+  background-color: blueviolet;
+}
